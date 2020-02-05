@@ -1,2 +1,3 @@
-# POO
-Práticas em casa
+# Programação Orientada a Objetos
+
+Desenvolvimendo de soluções voltadas no paradigma POO
